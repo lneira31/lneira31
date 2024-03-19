@@ -4,3 +4,6 @@
 
 Escribir sobre nosotros...
 
+## Contact me 
+
+Hacer el cierre de la presentaciòn, invitando a contactat...
